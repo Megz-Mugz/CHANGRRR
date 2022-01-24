@@ -1,0 +1,61 @@
+.nav {
+  background-color: #886F6F;
+  font-family: 'Quicksand', sans-serif !important;
+}
+
+.item {
+  color: white !important;
+}
+
+.megzmugz-img {
+  margin-right: 20px;
+  width: 20px;
+}
+
+.nav-item {
+  margin-right: 30px;
+}
+
+.main-section {
+  height: 450px;
+  background-color: #694E4E;
+}
+
+.main-text {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  font-size: 4rem;
+  font-family: 'MuseoModerno', cursive;
+}
+
+.customizing {
+  height: 210px;
+  background-color: #886F6F;
+
+}
+
+.change-background {
+  float: left;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+
+.change-text {
+  float: right;
+  margin-right: 200px;
+  margin-top: 100px;
+}
+
+.btn {
+  font-family: 'Quicksand', sans-serif;
+  background-color: #694E4E !important;
+  color: white !important;
+  border: black !important;
+  border-color: black;
+}
+
+.btn:hover {
+  background-color: #F3C5C5 !important;
+  border: black;
+}
